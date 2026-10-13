@@ -26,6 +26,7 @@ python -m http.server 4173
 ```
 
 Откройте [http://localhost:4173](http://localhost:4173).
+https://yaru-gyaru.github.io/Neon-Haven-2099/
 
 HTTP-сервер нужен для корректной загрузки и обработки спрайтов. Не запускайте страницу двойным кликом через `file://`.
 
